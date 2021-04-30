@@ -1,5 +1,3 @@
-# Nailed-it
-
 # NailedIt
 
 Class notes re: project:

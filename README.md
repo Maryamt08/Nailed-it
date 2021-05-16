@@ -1,6 +1,6 @@
 # NailedIt
 
-1. Two types of users database: use Mongo.
+1. Two types of users database: used Mongo.
 
 2. Use DBpopulate to display nail tech information.
 
@@ -21,7 +21,7 @@ Users & Nail Techs Info: https://docs.google.com/spreadsheets/d/17Kq7NqgrKN76w4b
 
 # Description:
 
-An application created for users to leave reviews for nail techinicans within the DMV, specifically in the Tysons Corner area. Here, users log into their account and find their nail tech to leave a review based on their service. They can also rate their nail techs on a scale of 1 to 5 stars and view previous reviews and associated photos.
+An application created for users to leave reviews for nail techinicans. Users can create an account as a Nail tech to promote their business or as a user to browse nail techs and leave reviews.
 
 
 Live link : https://nailtechreview.herokuapp.com/

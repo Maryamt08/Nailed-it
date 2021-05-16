@@ -24,7 +24,4 @@ Users & Nail Techs Info: https://docs.google.com/spreadsheets/d/17Kq7NqgrKN76w4b
 An application created for users to leave reviews for nail techinicans within the DMV, specifically in the Tysons Corner area. Here, users log into their account and find their nail tech to leave a review based on their service. They can also rate their nail techs on a scale of 1 to 5 stars and view previous reviews and associated photos.
 
 
-Duc -
-Kokhob -
-Maryam -
-Kyle-
+Live link : https://nailtechreview.herokuapp.com/
